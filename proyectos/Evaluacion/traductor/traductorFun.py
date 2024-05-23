@@ -216,7 +216,7 @@ def ter_cua(n):
 
     return resultado
 
-def ter_octal(n):
+def ter_oct(n):
     resultadoTerADec = ter_dec(n)
 
     resultado = dec_oct(resultadoTerADec)
